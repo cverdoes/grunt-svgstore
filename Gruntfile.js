@@ -224,6 +224,7 @@ module.exports = function(grunt) {
                         <use xlink:href="#{{name}}" />
                       </svg>
                       <div>{{title}}</div>
+                      <div>{{description}}</div>
                     </div>
                     {{/each}}
 
